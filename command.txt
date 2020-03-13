@@ -1,0 +1,3 @@
+*IDN?
+SYSTem:VERSion?
+SYSTem:KLOCK:STATe 0
